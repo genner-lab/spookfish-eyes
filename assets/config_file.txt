@@ -1,0 +1,71 @@
+## ALIGNMENT FILE ##
+alignment = ConcatenatedMatrix_17species.phy;
+
+## BRANCHLENGTHS: linked | unlinked ##
+branchlengths = linked;
+
+## MODELS OF EVOLUTION: all | allx | mrbayes | beast | gamma | gammai | <list> ##
+models = GTR, GTR+G, GTR+I+G, JC+I+G;
+
+# MODEL SELECCTION: AIC | AICc | BIC #
+model_selection = aicc;
+
+## DATA BLOCKS: see manual for how to define ##
+[data_blocks]
+ATP6_C_codon1=1-681\3;
+ATP6_C_codon2=1-681\3;
+ATP6_C_codon3=3-681\3;
+ATP8_C_codon1=682-849\3;
+ATP8_C_codon2=683-849\3;
+ATP8_C_codon3=684-849\3;
+COIII_C_codon1=850-1632\3;
+COIII_C_codon2=851-1632\3;
+COIII_C_codon3=852-1632\3;
+COII_C_codon1=1633-2322\3;
+COII_C_codon2=1634-2322\3;
+COII_C_codon3=1635-2322\3;
+COI_C_codon1=2323-3870\3;
+COI_C_codon2=2324-3870\3;
+COI_C_codon3=2325-3870\3;
+CYTB_C_codon1=3871-5005\3;
+CYTB_C_codon2=3872-5005\3;
+CYTB_C_codon3=3873-5005\3;
+ND1_C_codon1=5006-5980\3;
+ND1_C_codon2=5007-5980\3;
+ND1_C_codon2=5008-5980\3;
+ND2_C_codon1=5981-7030\3;
+ND2_C_codon2=5982-7030\3;
+ND2_C_codon3=5983-7030\3;
+ND3_C_codon1=7031-7381\3;
+ND3_C_codon2=7032-7381\3;
+ND3_C_codon3=7033-7381\3;
+ND4L_C_codon1=7382-7678\3;
+ND4L_C_codon2=7383-7678\3;
+ND4L_C_codon3=7384-7678\3;
+ND4_C_codon1=7679-9058\3;
+ND4_C_codon2=7680-9058\3;
+ND4_C_codon3=7681-9058\3;
+ND5_C_codon1=9059-10891\3;
+ND5_C_codon2=9060-10891\3;
+ND5_C_codon3=9061-10891\3;
+ND6_C_codon1=10892-11416\3;
+ND6_C_codon2=10893-11416\3;
+ND6_C_codon3=10894-11416\3;
+myosin_align_C_codon1=11417-12112\3;
+myosin_align_C_codon2=11418-12112\3;
+myosin_align_C_codon3=11418-12112\3;
+rRNA_12S_C=12113-13070;
+rRNA_16S_C=13071-14783;
+rag1_align_C_codon1=14784-16209\3;
+rag1_align_C_codon2=14785-16209\3;
+rag1_align_C_codon3=14786-16209\3;
+tbr1_align_C_codon1=16210-16866\3;
+tbr1_align_C_codon2=16211-16866\3;
+tbr1_align_C_codon3=16212-16866\3;
+zic1_align_C_codon1=16867-17700\3;
+zic1_align_C_codon2=16868-17700\3;
+zic1_align_C_codon3=16869-17700\3
+
+## SCHEMES, search: all | user | greedy | rcluster | rclusterf | kmeans ##
+[schemes]
+search = greedy;
