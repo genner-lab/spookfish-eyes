@@ -1,0 +1,18 @@
+Species	mtDNA genome	COI	12S	16S	zic1	myh6	rag1	tbr1
+Argentina silus	AP012952	mtDNA genome	mtDNA genome	mtDNA genome	NA	NA	NA	NA
+Bathylychnops exilis	AP012953	mtDNA genome	mtDNA genome	mtDNA genome	NA	NA	NA	NA
+Dolichopteryx longipes	NA	MG856880	NA	NA	FJ906646	KU6522	FJ896427	NA
+Dolichopteryx minuscula	AP012954	mtDNA genome	mtDNA genome	mtDNA genome	NA	NA	NA	NA
+Galaxis maculatus	AP004104	mtDNA genome	mtDNA genome	mtDNA genome	NA	NA	NA	NA
+Glossanodon semifasciatus	AP004105	mtDNA genome	mtDNA genome	mtDNA genome	NA	NA	NA	NA
+Lepidogalaxias salamandroides	HM106490	mtDNA genome	mtDNA genome	mtDNA genome	NA	NA	NA	NA
+Lipolagus ochotensis	NC_004591	mtDNA genome	mtDNA genome	mtDNA genome	NA	NA	NA	NA
+Macropinna microstoma	AP017327	mtDNA genome	mtDNA genome	mtDNA genome	JNA191278	JNA190426	JNA190823	JNA191161
+Monacoa grimaldii	AP017325	mtDNA genome	mtDNA genome	mtDNA genome	KNA228043.	KNA227873	KNA228060	KNA228003
+Monacoa griseus	AP017328	mtDNA genome	mtDNA genome	mtDNA genome	NA	NA	NA	NA
+Monacoa niger	AP017322	mtDNA genome	mtDNA genome	mtDNA genome	NA	NA	NA	NA
+Nansenia ardesiaca	AP004106	mtDNA genome	mtDNA genome	mtDNA genome	JNA191277	JNA190425		JNA191160
+Opisthoproctus soleatus	AP004110	mtDNA genome	mtDNA genome	mtDNA genome	KNA228038	NA	NA	NA
+Osmerus mordax	HM106493	mtDNA genome	mtDNA genome	mtDNA genome	NA	NA	NA	NA
+Rhynchohyalus natalensis	NA	KNA228024	LC458383	NA	KC830791	KNA227881	KNA228057	KNA228008
+Winteria telescopa	NA	HQ563926	NA	NA	NA	NA	NA	NA
